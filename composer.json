@@ -6,6 +6,7 @@
             "Zhengyaocheng\\SimpleCurl\\": "src/"
         }
     },
+    "license": "MIT",
     "authors": [
         {
             "name": "郑耀成",
