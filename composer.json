@@ -1,0 +1,20 @@
+{
+    "name": "zhengyaocheng/simple-curl",
+    "description": "精简轻量 API 使用 curl",
+    "autoload": {
+        "psr-4": {
+            "Zhengyaocheng\\SimpleCurl\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "郑耀成",
+            "email": "823036633@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0",
+        "ext-curl": "*"
+    }
+}
