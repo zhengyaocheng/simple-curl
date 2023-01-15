@@ -1,6 +1,7 @@
 {
     "name": "zhengyaocheng/simple-curl",
     "description": "精简轻量 API 使用 curl",
+    "type"  : "library",
     "autoload": {
         "psr-4": {
             "Zhengyaocheng\\SimpleCurl\\": "src/"
@@ -9,7 +10,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "郑耀成",
+            "name": "水无灯里",
             "email": "823036633@qq.com"
         }
     ],
